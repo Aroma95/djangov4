@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E225" />
+          <option value="W191" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.utils.six" />
+          <option value="shops.shops.urls.product" />
+          <option value="shop.application.views.djangpapp" />
+          <option value="shop.application.views.djangoapp" />
+          <option value="main.*" />
+          <option value="checkstatic.checkstatic.urls.showstatic" />
+          <option value="formsbase.formspgm.views.InputForm" />
+          <option value="forms2.form3.views.Django_app1" />
+          <option value="forms2.form3.views.forms3" />
+          <option value="forms2.form3.urls.forms3" />
+          <option value="shop.products.views.forms" />
+          <option value="shop.shop.urls.*" />
+          <option value="product.views" />
+          <option value="mail.send.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
